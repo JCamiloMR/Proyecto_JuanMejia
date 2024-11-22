@@ -3,11 +3,11 @@ import '../styles/About.css';
 
 function About() {
   return (
-    <section className="about">
+    <section className='About'>
+      <h1>Juan Camilo Mejia Rave</h1>
       <h2>Sobre mí</h2>
-      <p>
-        Soy un desarrollador apasionado por crear soluciones efectivas y creativas.
-        Explora mi trabajo y conoce un poco más sobre mí.
+      <p className='sobre'>
+        Hola,  Soy Juan Camilo un desarrollador apasionado por crear soluciones innovadoras y creativas,<br></br> interesado en usar diferentes tecnologias en BackEnd y FrontEnd.
       </p>
     </section>
   );
