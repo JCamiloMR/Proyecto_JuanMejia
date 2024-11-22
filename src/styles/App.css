@@ -62,7 +62,7 @@ section {
 }
 
 #footer {
-  background-color: #1f2937;
+  background: linear-gradient(90deg, #1e3a8a, #000000); /* Azul oscuro degradado */
   color: white;
 }
 

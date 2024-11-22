@@ -1,7 +1,7 @@
 .footer {
     text-align: center;
     padding: 20px;
-    background-color: #2b2e4a;
+    background: linear-gradient(90deg, #1e3a8a, #000000); /* Azul oscuro degradado */
     color: #fff;
     font-size: 0.9rem;
     border-radius: 0 0 8px 8px;

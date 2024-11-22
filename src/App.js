@@ -4,6 +4,7 @@ import About from './components/About';
 import CurrencyConverter from './components/CurrencyConverter';
 import Footer from './components/Footer';
 import Huellitas from './components/Huellitas';
+import Contact from './components/Contacto';
 import './styles/App.css';
 
 function App() {
@@ -30,6 +31,10 @@ function App() {
         </div>
 
 
+      </div>
+
+      <div>
+        <Contact/>
       </div>
       <div id="footer">
         <Footer />
